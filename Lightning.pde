@@ -75,11 +75,11 @@ void draw()
   
 void mousePressed()
 {
-  startX=300;
+  startX=312;
   startY=80;
   endX=200;
   endY=0;
-  startA = 100;
+  startA = 112;
   startB = 80;
   endA = 0;
   endB = 20;
